@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title> Deze titel verschijnt in de tab van je browser </title>
+    </head>
+    <body>
+        <header>
+            <h1> Mijn eerste JavaScript speeltuin
+            </h1>
+        </header>
+        Dit is mijn website voor de JavaScript cursus; Mijn eerste JavaScript speeltuin.
+
+        <script src="index.js">
+            
+        </script>
+    </body>
+</html>
