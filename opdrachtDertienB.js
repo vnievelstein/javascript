@@ -36,4 +36,4 @@ const uitkomst = function () {
 }
 uitkomst()
 // nu wordt iedere keer een nieuw random getal gekozen, dat maakt de kans van de rader wel erg klein
-// maak twee variabelen, het random getal en het geraden getal, zie verder opdrachtDertienC
+
