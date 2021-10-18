@@ -1,0 +1,18 @@
+
+ .lblue-border {
+    border: 3px solid rgb(169, 225, 251);
+ }
+
+ .lblue-background{
+    background-color: rgb(179, 197, 235);
+ }
+ .blue-background {
+   background-color: blue;
+   }
+   .red-background {
+   background-color: red;
+   }
+  .btn-alert{
+      color:blueviolet;
+  }
+  
