@@ -1,0 +1,32 @@
+.lblue-background{
+    background-color: rgb(179, 197, 235);
+}
+.blue-background {
+    background-color: blue;
+}
+.red-background {
+    background-color: red;
+}
+.green-background{
+    background-color: green;
+}
+.yellow-background{
+    background-color: yellow;
+}  
+button{
+    font-size:medium;
+    size:25px;
+    width:120px;
+}
+.nav-visible{
+    
+    width:125px;
+    visibility:visible;
+}
+.nav-hidden{
+    width:125px;
+    visibility:hidden;
+}
+li{
+    list-style-type: none;
+}
